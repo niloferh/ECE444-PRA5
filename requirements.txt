@@ -6,3 +6,5 @@ MarkupSafe==3.0.2
 Werkzeug==3.0.5
 scikit-learn==1.5.2
 pytest==8.3.3
+pytest-benchmark==4.0.0
+pygal==3.0.5
